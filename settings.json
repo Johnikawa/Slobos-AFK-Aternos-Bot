@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "EDUBILFBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "EDUBILF_SMP.aternos.me",
     "port": 47705,
-    "version": "",
+    "version": "1.26.2,
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
